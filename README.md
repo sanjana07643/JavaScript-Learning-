@@ -11,12 +11,6 @@ This repository is dedicated to my JavaScript learning journey. I will regularly
 - Build real-world projects.
 - Track my progress on GitHub.
 
-🛠️ Tools
-
-- JavaScript (ES6+)
-- Acode / VS Code
-- Git & GitHub
-
 📌 Note
 
 This repository is currently under development and will be updated regularly as I learn new JavaScript concepts.# JavaScript-Learning-
