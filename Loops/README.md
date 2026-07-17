@@ -1,12 +1,11 @@
-Java Loops Practice
+Javascript Loops Practice
 
-This repository contains my Java loop practice programs. I created it to strengthen my problem-solving skills and build a solid foundation in Java programming.
+This repository contains my Javascript loop practice programs. I created it to strengthen my problem-solving skills and build a solid foundation in Javascript programming.
 
 Purpose
 
 - Improve Java fundamentals
 - Develop logical thinking
-- Prepare for Data Structures & Algorithms (DSA)
 - Build consistency through daily coding practice
 
 Repository Structure
