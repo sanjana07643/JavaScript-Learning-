@@ -1,5 +1,5 @@
 
-Javascript Loops Practice
+Javascript operators Practice
 
 This repository contains my Javascript loop practice programs. I created it to strengthen my problem-solving skills and build a solid foundation in Javascript programming.
 
