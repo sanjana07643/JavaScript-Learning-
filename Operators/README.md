@@ -1,7 +1,7 @@
 
 Javascript operators Practice
 
-This repository contains my Javascript loop practice programs. I created it to strengthen my problem-solving skills and build a solid foundation in Javascript programming.
+This repository contains my Javascript operator practice programs. I created it to strengthen my problem-solving skills and build a solid foundation in Javascript programming.
 
 Purpose
 
