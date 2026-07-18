@@ -4,7 +4,7 @@ This repository contains my Javascript loop practice programs. I created it to s
 
 Purpose
 
-- Improve Java fundamentals
+- Improve Javascript fundamentals
 - Develop logical thinking
 - Build consistency through daily coding practice
 
