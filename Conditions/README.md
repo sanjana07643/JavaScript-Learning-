@@ -1,5 +1,5 @@
 
-Javascript variables Practice
+Javascript conditional statements Practice
 
 This repository contains my Javascript conditional statements practice programs. I created it to strengthen my problem-solving skills and build a solid foundation in Javascript programming.
 
